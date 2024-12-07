@@ -188,7 +188,8 @@ pizza.html
 # OUTPUT
 ![Screenshot (3)](https://github.com/user-attachments/assets/8b46d874-08a7-4fab-a899-4ddfa409e1b2)
 
-![Screenshot 2024-12-04 225658](https://github.com/user-attachments/assets/cd4af5f8-af56-4047-88ed-f24358ff9264)
+![image](https://github.com/user-attachments/assets/b4fb06ea-fb5c-4015-b4cd-6004d996527f)
+
 
 ![Screenshot 2024-12-04 225831](https://github.com/user-attachments/assets/0d0627f4-89f5-494a-9ae4-4b329679a728)
 
